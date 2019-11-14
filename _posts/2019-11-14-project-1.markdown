@@ -5,9 +5,9 @@ date: 2019-11-14
 img: P01.png
 alt: image-alt
 project-date: November 2019
-client:
+skills: c#, unity
+github: https://github.com/rhakdkdl16/SuperContact/
 category: GAME
 description: Unity UI 학습을위해 만든 수퍼연락처
- <a href="https://github.com/rhakdkdl16/SuperContact/">Git hub</a>.
 
 ---
