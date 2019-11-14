@@ -8,6 +8,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: GAME
 description: Unity UI 학습을위해 만든 수퍼연락처
-<a href = "https://github.com/rhakdkdl16/SuperContact.git">github</a>
+<a href = "https://github.com/rhakdkdl16/SuperContact">github</a>
 
 ---
