@@ -8,5 +8,5 @@ project-date: November 2019
 client: 
 category: Web Development
 description: RPG용 UI
-<a href="https://github.com/rhakdkdl16/GameUI/">Git hub</a>.
+ <a href="https://github.com/rhakdkdl16/GameUI/">Git hub</a>.
 ---
