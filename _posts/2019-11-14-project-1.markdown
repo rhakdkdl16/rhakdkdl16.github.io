@@ -8,6 +8,6 @@ project-date: November 2019
 client:
 category: GAME
 description: Unity UI 학습을위해 만든 수퍼연락처
-<a href = "https://github.com/rhakdkdl16/SuperContact">github</a>
+<a href = "https://github.com/rhakdkdl16/SuperContact">Github</a>
 
 ---
