@@ -20,25 +20,26 @@
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
-                                    <li>Client:
-                                        <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
+                                    <li>사용기술:
+                                        <strong>{{ post.client }}
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
-                                    <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <li>날짜:
+                                        <strong>{{ post.project-date }}
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
                                     <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                        <strong>{{ post.category }}
                                         </strong>
                                     </li>
                                 {% endif %}
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <button type="button"class="btn btn-default"onclick="location.href= 'http://github.com/rhakdkdl16'">
+                            <i class="fa fa-bookmark"></i> Github 저장소 </button>
                         </div>
                     </div>
                 </div>
