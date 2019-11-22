@@ -8,6 +8,6 @@ project-date: November 2019
 client: Start Bootstrap
 category: Web Development
 description: DS FISH
- <a href="https://github.com/rhakdkdl16/DS/">Git hub</a>.
+ <a href="https://github.com/rhakdkdl16/DSFish/">Git hub</a>.
 
 ---
