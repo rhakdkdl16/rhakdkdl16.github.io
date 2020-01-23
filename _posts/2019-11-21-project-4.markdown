@@ -4,9 +4,10 @@ modal-id: 4
 date: 2019-11-21
 img: fishp.png
 alt: image-alt
-project-date:  2019
+project-date: November 2019
 skills: c#, unity
 category: GAME
-description: 플라피버드 모티브로 만든 게임.
-<a href="https://github.com/rhakdkdl16/DSFish/">Git hub</a>.
+description: 화면을 터치해 장애물을 피해 점수를획득하는 게임.
+ <a href="https://github.com/rhakdkdl16/DSFIsh">Git hub</a>.
 ---
+
