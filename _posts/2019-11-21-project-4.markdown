@@ -8,6 +8,6 @@ project-date: November 2019
 skills: c#, unity
 category: GAME
 description: 화면을 터치해 장애물을 피해 점수를획득하는 게임.
- <a href="https://github.com/rhakdkdl16/DSFIsh">Git hub</a>.
+ <a href="https://github.com/rhakdkdl16/DSFIsh">
 ---
 
