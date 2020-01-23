@@ -5,9 +5,11 @@ date: 2019-11-14
 img: P01.png
 alt: image-alt
 project-date: November 2019
-client: 
-category: WW
-description: SUPERCONTACT
+skills: c#, unity
+category: GAME
+description: 학습목적으로 만든 연락처앱.
+
  <a href="https://github.com/rhakdkdl16/SuperContact">
 ---
+
 

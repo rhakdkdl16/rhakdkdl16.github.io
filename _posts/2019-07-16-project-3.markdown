@@ -5,8 +5,9 @@ date: 2019-11-14
 img: Switch.png
 alt: image-alt
 project-date: November 2019
-client: 
-category: Web Development
-description: 학습목적으로 만든 SWITCH
- <a href="https://github.com/rhakdkdl16/DS/">
+skills: c#, unity
+category: UI
+description: 학습목적으로 만든 SWITCH.
+
+ <a href="https://github.com/rhakdkdl16/DS">
 ---
