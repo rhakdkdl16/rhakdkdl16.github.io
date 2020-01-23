@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-11-14
-img: p01.png
+img: P01.png
 alt: image-alt
 project-date: November 2019
 skills: C#, Unity
