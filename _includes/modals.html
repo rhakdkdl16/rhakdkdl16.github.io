@@ -19,27 +19,28 @@
                                 <p>{{ post.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
+                                {% if post.skills %}
                                     <li>사용기술:
-                                        <strong>{{ post.client }}
+                                        <strong> {{ post.skills }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.project-date %}
                                     <li>날짜:
-                                        <strong>{{ post.project-date }}
+                                        <strong> {{ post.project-date }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                                 {% if post.category %}
-                                    <li>Service:
-                                        <strong>{{ post.category }}
+                                    <li>카테고리:
+                                        <strong> {{ post.category }}</a>
                                         </strong>
                                     </li>
                                 {% endif %}
                             </ul>
-                            <button type="button"class="btn btn-default"onclick="location.href= 'http://github.com/rhakdkdl16'">
-                            <i class="fa fa-bookmark"></i> Github 저장소 </button>
+                            {% if post.github %}
+                             <button type="button" class="btn btn-default" onclick="location.href='{{ post.github }}'"><i class="fa fa-bookmark"></i> GitHub 저장소</button>
+                             {% endif %}
                         </div>
                     </div>
                 </div>
