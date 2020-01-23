@@ -5,10 +5,9 @@ date: 2019-11-21
 img: fishp.png
 alt: image-alt
 project-date: November 2019
-skills: c#, unity
-category: GAME
+skills: C#, Unity
+github: https://github.com/rhakdkdl16/DSFish
+
 description: 화면을 터치해 장애물을 피해 점수를획득하는 게임.
 
- <a href="https://github.com/rhakdkdl16/DSFIsh">
 ---
-

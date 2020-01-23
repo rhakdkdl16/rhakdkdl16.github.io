@@ -6,7 +6,7 @@ img: P01.png
 alt: image-alt
 project-date: November 2019
 skills: C#, Unity
-github: https://github.com/kimy0303/YH_Project/
+github: https://github.com/rhakdkdl16/SuperContact
 category: UI
 description: Unity UI 학습을 위해 만든 연락처
 

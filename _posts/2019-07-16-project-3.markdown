@@ -5,9 +5,10 @@ date: 2019-11-14
 img: Switch.png
 alt: image-alt
 project-date: November 2019
-skills: c#, unity
-category: UI
-description: 학습목적으로 만든 SWITCH.
+skills: C#, Unity
+github: https://github.com/rhakdkdl16/DS
 
- <a href="https://github.com/rhakdkdl16/DS">
+description: 학습목적으로 만든 Switch
+
+
 ---

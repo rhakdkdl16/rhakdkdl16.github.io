@@ -5,9 +5,10 @@ date: 2019-11-14
 img: UI.png
 alt: image-alt
 project-date: November 2019
-skills: c#, unity
-category: UI
-description: RPG용 UI
+skills: C#, Unity
+github: https://github.com/rhakdkdl16/GameUI
 
- <a href="https://github.com/rhakdkdl16/GameUI">
+description: RPG용 UI.
+
+
 ---
