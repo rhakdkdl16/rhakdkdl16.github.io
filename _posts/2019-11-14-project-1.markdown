@@ -2,14 +2,13 @@
 layout: default
 modal-id: 1
 date: 2019-11-14
-img: P01.png
+img: p01.png
 alt: image-alt
 project-date: November 2019
-skills: c#, unity
-category: GAME
-description: 학습목적으로 만든 연락처앱.
+skills: C#, Unity
+github: https://github.com/kimy0303/YH_Project/
+category: UI
+description: Unity UI 학습을 위해 만든 연락처
 
- <a href="https://github.com/rhakdkdl16/SuperContact">
+
 ---
-
-
