@@ -6,7 +6,7 @@ img: fishp.png
 alt: image-alt
 project-date:  2019
 skills: c#, unity
-github: "https://github.com/rhakdkdl16/DSFish/"
+github: <a href="www.naver.com">Git hudb</a>.
 category: GAME
 description: 플라피버드 모티브로 만든 게임.
 
