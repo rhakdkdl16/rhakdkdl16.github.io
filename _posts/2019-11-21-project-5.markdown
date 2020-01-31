@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+date: 2019-12-21
+img: tank.png
+alt: image-alt
+project-date: November 2019
+skills: C#, Unity , Javascript
+github: https://github.com/rhakdkdl16/DSFish
+
+description: 화면을 터치해 장애물을 피해 점수를획득하는 게임.
+
+---
