@@ -6,7 +6,7 @@ img: tank.png
 alt: image-alt
 project-date: November 2019
 skills: C#, Unity , Javascript
-github: https://github.com/rhakdkdl16/DSFish
+github: https://github.com/rhakdkdl16/SuperTank
 
 description: 화면을 터치해 장애물을 피해 점수를획득하는 게임.
 
