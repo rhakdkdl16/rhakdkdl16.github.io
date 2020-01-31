@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2019-12-21
-img: tank.png
+img: tank.PNG
 alt: image-alt
 project-date: November 2019
 skills: C#, Unity , Javascript
