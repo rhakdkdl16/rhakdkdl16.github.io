@@ -8,6 +8,6 @@ project-date: November 2019
 skills: C#, Unity , Javascript
 github: https://github.com/rhakdkdl16/SuperTank
 
-description: 멀티플레이가 가능한 테스트단계의 탱크 게임서버 & 클라이언트 
+description: 멀티플레이가 가능한  탱크 게임서버 & 클라이언트 
 
 ---
